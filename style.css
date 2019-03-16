@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  padding: 10px;
+}
+
+.hidden {
+  display: none;
+}
